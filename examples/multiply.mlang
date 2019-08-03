@@ -1,0 +1,13 @@
+func multiply(x, y) {
+  temp = 0
+  for x {
+    for y {
+      temp++
+    }
+  }
+  return temp
+}
+
+temp1 = 0 temp1++
+temp2 = 0 temp2++
+print multiply(temp1, temp2)
